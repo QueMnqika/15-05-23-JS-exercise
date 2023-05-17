@@ -11,6 +11,6 @@ console.log(numberVar * 5);
 
 //error
 const fname = "Que";
-fname = "Mnqika"
+     fname = "Mnqika"
 
 console.log(fname);
